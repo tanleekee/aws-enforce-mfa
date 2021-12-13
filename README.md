@@ -1,4 +1,4 @@
-#2 Reference from AWS documentation:
+## Reference from AWS documentation:
 https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_examples_aws_my-sec-creds-self-manage.html
 
 1. Create a new policy using the policy code
